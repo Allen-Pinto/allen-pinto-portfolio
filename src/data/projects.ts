@@ -60,7 +60,7 @@ export const projects: Project[] = [
     category: "engineering",
     accentColor: "#10B981",
     mockupType: "dashboard",
-    image: "/images/Eval-Flow.png",
+    image: "/images/Eval.png",
   },
   {
     id: "donourly",
