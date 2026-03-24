@@ -2,14 +2,14 @@
 
 <br />
 
-```
+<pre>
  █████╗ ██╗     ██╗     ███████╗███╗   ██╗    ██████╗ ██╗███╗   ██╗████████╗ ██████╗ 
 ██╔══██╗██║     ██║     ██╔════╝████╗  ██║    ██╔══██╗██║████╗  ██║╚══██╔══╝██╔═══██╗
 ███████║██║     ██║     █████╗  ██╔██╗ ██║    ██████╔╝██║██╔██╗ ██║   ██║   ██║   ██║
 ██╔══██║██║     ██║     ██╔══╝  ██║╚██╗██║    ██╔═══╝ ██║██║╚██╗██║   ██║   ██║   ██║
 ██║  ██║███████╗███████╗███████╗██║ ╚████║    ██║     ██║██║ ╚████║   ██║   ╚██████╔╝
 ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═══╝    ╚═╝     ╚═╝╚═╝  ╚═══╝   ╚═╝    ╚═════╝ 
-```
+</pre>
 
 <br />
 
@@ -45,7 +45,7 @@ The result is a dark, premium, interactive portfolio that feels like a high-end 
 
 ---
 
-## ✦ Features
+## Features
 
 - **Custom cursor** — dot, trailing ring, and ambient radial glow that follows mouse movement with smooth lag interpolation
 - **Parallax hero** — cursor-driven depth effect on the hero section
@@ -170,7 +170,7 @@ Display   →   Clash Display     (headings, labels, names)
 Body      →   Cabinet Grotesk   (paragraphs, UI text)
 ```
 
-Both fonts via [Fontshare](https://www.fontshare.com) — loaded with zero config.
+Both fonts via [Fontshare](https://www.fontshare.com) — loaded via CDN with zero config.
 
 ---
 
@@ -218,15 +218,13 @@ npm run build
 .next
 ```
 
-Or connect the GitHub repo directly to Netlify / Vercel for automatic deployments on every push.
+Connect the GitHub repo directly to Netlify or Vercel for automatic deployments on every push.
 
 ---
 
 ## Author
 
-**Allen Pinto**
-
-Full Stack Developer & UI/UX Designer based in Bangalore, India.
+**Allen Pinto** — Full Stack Developer & UI/UX Designer
 
 - Portfolio → [allen-verse.netlify.app](https://allen-verse.netlify.app)
 - GitHub → [@Allen-Pinto](https://github.com/Allen-Pinto)
